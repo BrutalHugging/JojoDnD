@@ -1055,18 +1055,18 @@
     <polyline class="st27" points="783.33 69.44 790.21 92.52 812.48 92.52 794.47 106.79 801.35 129.87 783.33 115.61"/>
     <path class="st40" d="M785.84,96.12"/>
     <polyline class="st27" points="782.16 83.2 786.17 96.66 799.15 96.66 788.65 104.97 792.66 118.43 782.16 110.11"/>
-    <path class="st12" d="M319.1,130.56h461.23l3-3V48.79l-3-3h-461.23l-3,3v78.77l3,3Z"/>
-    <rect class="st2" x="320.36" y="53.64" width="458.7" height="69.07" transform="translate(1099.43 176.34) rotate(180)"/>
-    <line class="st15" x1="776.13" y1="113.82" x2="776.13" y2="58.42"/>
+    <path class="st12" d="M319.1,130.56h461.23l3-3V18.47l-3-3h-461.23l-3,3v109.09l3,3Z"/>
+    <rect class="st2" x="320.36" y="26.13" width="458.7" height="93.77" transform="translate(1099.43 146.03) rotate(180)"/>
+    <line class="st15" x1="776.13" y1="107.83" x2="776.13" y2="32.62"/>
     <g>
       <ellipse class="st39" cx="776.13" cy="122.22" rx="6.03" ry="5.92"/>
       <ellipse class="st2" cx="776.13" cy="122.22" rx="5" ry="4.91"/>
       <polygon class="st24" points="776.13 126.94 780.93 122.22 776.13 117.5 771.33 122.22 776.13 126.94"/>
     </g>
     <g>
-      <ellipse class="st39" cx="776.13" cy="52.79" rx="6.03" ry="5.92"/>
-      <ellipse class="st2" cx="776.13" cy="52.79" rx="5" ry="4.91"/>
-      <polygon class="st24" points="776.13 57.51 780.93 52.79 776.13 48.07 771.33 52.79 776.13 57.51"/>
+      <ellipse class="st39" cx="776.13" cy="26.13" rx="6.03" ry="5.92"/>
+      <ellipse class="st2" cx="776.13" cy="26.13" rx="5" ry="4.91"/>
+      <polygon class="st24" points="776.13 30.84 780.93 26.13 776.13 21.41 771.33 26.13 776.13 30.84"/>
     </g>
   </g>
   <g id="White" class="st68">
@@ -1220,9 +1220,9 @@
     <path class="st40" d="M785.84,96.12"/>
     <polyline class="st11" points="782.16 83.2 786.17 96.66 799.15 96.66 788.65 104.97 792.66 118.43 782.16 110.11"/>
     <g>
-      <path class="st11" d="M319.08,129.87h461.25l3-3V48.79l-3-3h-461.25l-3,3v78.09l3,3Z"/>
-      <rect class="st7" x="320.35" y="52.79" width="458.72" height="70.08" transform="translate(1099.42 175.66) rotate(180)"/>
-      <line class="st4" x1="776.13" y1="113.85" x2="776.13" y2="57.64"/>
+      <path class="st11" d="M319.08,129.87h461.25l3-3V18.47l-3-3h-461.25l-3,3v108.4l3,3Z"/>
+      <rect class="st7" x="320.35" y="25" width="458.72" height="95.34" transform="translate(1099.42 145.34) rotate(180)"/>
+      <line class="st4" x1="776.13" y1="108.07" x2="776.13" y2="31.6"/>
     </g>
     <g>
       <ellipse class="st46" cx="776.13" cy="122.22" rx="6.03" ry="5.92"/>
@@ -1230,9 +1230,9 @@
       <polygon class="st18" points="776.13 126.94 780.93 122.22 776.13 117.5 771.33 122.22 776.13 126.94"/>
     </g>
     <g>
-      <ellipse class="st46" cx="776.13" cy="52.79" rx="6.03" ry="5.92"/>
-      <ellipse class="st7" cx="776.13" cy="52.79" rx="5" ry="4.91"/>
-      <polygon class="st18" points="776.13 57.51 780.93 52.79 776.13 48.07 771.33 52.79 776.13 57.51"/>
+      <ellipse class="st46" cx="776.13" cy="26.13" rx="6.03" ry="5.92"/>
+      <ellipse class="st7" cx="776.13" cy="26.13" rx="5" ry="4.91"/>
+      <polygon class="st18" points="776.13 30.84 780.93 26.13 776.13 21.41 771.33 26.13 776.13 30.84"/>
     </g>
   </g>
 </svg>
