@@ -9,7 +9,7 @@
 
       .st0, .st1, .st2 {
         fill: #fff;
-        stroke: #231f20;
+        stroke: #000;
       }
 
       .st3 {
@@ -24,6 +24,10 @@
         stroke-width: .5px;
       }
 
+      .st2 {
+        stroke-linejoin: bevel;
+      }
+
       .st5 {
         display: none;
       }
@@ -34,10 +38,6 @@
 
       .st7 {
         clip-path: url(#clippath);
-      }
-
-      .st2 {
-        stroke-linejoin: bevel;
       }
 
       .st8 {
@@ -60,44 +60,65 @@
   </g>
   <g id="Layer_2">
     <g>
-      <path class="st0" d="M47.6.5H4.6L.6,4.6v40.1l4,4h43l4-4V4.5L47.6.5ZM49.5,37.9l-8.7,8.7H11.4l-8.7-8.7V11.3l5.4-5.4,1.2-1.1,2.2-2.2h29.2l2.2,2.2,1.2,1.2.9.9,1.4,1.4,1.2,1.2,1.9,1.9v26.6Z"/>
-      <polygon class="st2" points="11.5 2.5 9.3 4.7 8.1 5.9 2.7 11.3 2.7 2.5 11.5 2.5"/>
-      <polygon class="st2" points="11.4 46.6 2.7 46.6 2.7 37.9 11.4 46.6"/>
-      <polygon class="st2" points="49.5 2.5 49.5 11.3 47.6 9.4 46.3 8.1 45 6.8 44 5.8 42.9 4.7 40.7 2.5 49.5 2.5"/>
-      <polygon class="st2" points="49.5 37.9 49.5 46.6 40.8 46.6 49.5 37.9"/>
+      <path class="st0" d="M47.6,48.7H4.6l-4-4V4.6L4.6.5h43l4,4v40.2l-4,4Z"/>
+      <rect class="st2" x="2.7" y="2.5" width="46.8" height="44.1"/>
       <g>
         <g>
-          <line class="st1" x1="4.6" y1="9.4" x2="2.7" y2="8"/>
-          <line class="st1" x1="5.9" y1="8.1" x2="2.7" y2="5.6"/>
-          <line class="st1" x1="7.2" y1="6.8" x2="2.7" y2="2.5"/>
-          <line class="st1" x1="8.1" y1="5.9" x2="4.9" y2="2.5"/>
-          <line class="st1" x1="9.3" y1="4.7" x2="7.4" y2="2.5"/>
+          <path class="st1" d="M26.1,24.6"/>
+          <path class="st1" d="M26.1,24.6"/>
+          <path class="st1" d="M26.1,24.6"/>
+          <path class="st1" d="M26.1,24.6"/>
+          <path class="st1" d="M26.1,24.6"/>
+          <path class="st1" d="M26.1,24.6"/>
+          <line class="st1" x1="26.1" y1="24.6" x2="2.7" y2="8"/>
+          <line class="st1" x1="26.1" y1="24.6" x2="2.7" y2="5.6"/>
+          <line class="st1" x1="26.1" y1="24.6" x2="2.7" y2="2.5"/>
+          <line class="st1" x1="26.1" y1="24.6" x2="4.9" y2="2.5"/>
+          <line class="st1" x1="26.1" y1="24.6" x2="7.4" y2="2.5"/>
         </g>
         <g>
-          <line class="st1" x1="49.5" y1="40.9" x2="47.8" y2="39.6"/>
-          <line class="st1" x1="49.5" y1="43.3" x2="46.5" y2="40.9"/>
-          <line class="st1" x1="49.5" y1="46.5" x2="45.1" y2="42.3"/>
-          <polyline class="st1" points="47.4 46.8 47.2 46.6 44.1 43.3"/>
-          <polyline class="st1" points="44.8 46.8 44.6 46.6 42.9 44.5"/>
+          <path class="st1" d="M25.5,23.8"/>
+          <path class="st1" d="M25.5,23.8"/>
+          <path class="st1" d="M25.5,23.8"/>
+          <path class="st1" d="M25.5,23.8"/>
+          <path class="st1" d="M25.5,23.8"/>
+          <path class="st1" d="M25.5,23.8"/>
+          <line class="st1" x1="25.5" y1="23.8" x2="49.5" y2="40.9"/>
+          <line class="st1" x1="25.5" y1="23.8" x2="49.5" y2="43.3"/>
+          <line class="st1" x1="25.5" y1="23.8" x2="49.5" y2="46.5"/>
+          <line class="st1" x1="25.5" y1="23.8" x2="47.4" y2="46.8"/>
+          <line class="st1" x1="25.5" y1="23.8" x2="44.8" y2="46.8"/>
         </g>
         <g>
           <g>
-            <line class="st1" x1="49.5" y1="8" x2="47.6" y2="9.4"/>
-            <line class="st1" x1="49.5" y1="5.6" x2="46.4" y2="8.1"/>
-            <line class="st1" x1="49.5" y1="2.5" x2="45" y2="6.8"/>
-            <line class="st1" x1="47.2" y1="2.5" x2="44" y2="5.8"/>
-            <line class="st1" x1="44.7" y1="2.5" x2="42.9" y2="4.7"/>
+            <path class="st1" d="M26.1,24.6"/>
+            <path class="st1" d="M26.1,24.6"/>
+            <path class="st1" d="M26.1,24.6"/>
+            <path class="st1" d="M26.1,24.6"/>
+            <path class="st1" d="M26.1,24.6"/>
+            <path class="st1" d="M26.1,24.6"/>
+            <line class="st1" x1="26.1" y1="24.6" x2="49.5" y2="8"/>
+            <line class="st1" x1="26.1" y1="24.6" x2="49.5" y2="5.6"/>
+            <line class="st1" x1="26.1" y1="24.6" x2="49.5" y2="2.5"/>
+            <line class="st1" x1="26.1" y1="24.6" x2="47.2" y2="2.5"/>
+            <line class="st1" x1="26.1" y1="24.6" x2="44.7" y2="2.5"/>
           </g>
           <g>
-            <line class="st1" x1="4.4" y1="39.6" x2="2.7" y2="40.9"/>
-            <line class="st1" x1="5.7" y1="40.9" x2="2.7" y2="43.3"/>
-            <line class="st1" x1="7.1" y1="42.3" x2="2.7" y2="46.5"/>
-            <polyline class="st1" points="4.8 46.8 5 46.6 8.1 43.3"/>
-            <polyline class="st1" points="7.4 46.8 7.6 46.6 9.3 44.5"/>
+            <path class="st1" d="M26.7,23.8"/>
+            <path class="st1" d="M26.7,23.8"/>
+            <path class="st1" d="M26.7,23.8"/>
+            <path class="st1" d="M26.7,23.8"/>
+            <path class="st1" d="M26.7,23.8"/>
+            <path class="st1" d="M26.7,23.8"/>
+            <line class="st1" x1="26.7" y1="23.8" x2="2.7" y2="40.9"/>
+            <line class="st1" x1="26.7" y1="23.8" x2="2.7" y2="43.3"/>
+            <line class="st1" x1="26.7" y1="23.8" x2="2.7" y2="46.5"/>
+            <line class="st1" x1="26.7" y1="23.8" x2="4.8" y2="46.8"/>
+            <line class="st1" x1="26.7" y1="23.8" x2="7.4" y2="46.8"/>
           </g>
         </g>
       </g>
-      <polygon class="st1" points="40.8 46.6 40.7 46.7 11.5 46.7 11.4 46.6 40.8 46.6"/>
+      <path class="st1" d="M40.7,46.7H11.5l-8.8-8.8V11.3L11.5,2.5h29.2l8.8,8.8v26.6l-8.8,8.8Z"/>
     </g>
   </g>
 </svg>
