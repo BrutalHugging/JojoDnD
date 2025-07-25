@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 102.41 21.61">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: .5px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #e6e6e6;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="boxes">
+    <g>
+      <path class="cls-2" d="M99.91,18.86H20.97V2.75h78.94c0,1.1.9,2,2,2v12.12c-1.1,0-2,.9-2,2Z"/>
+      <rect class="cls-1" x="22.57" y="4.24" width="77.75" height="13.13"/>
+      <rect class="cls-2" x="2.67" y="-1.67" width="20.61" height="24.94" rx="9.26" ry="9.26" transform="translate(23.78 -2.17) rotate(90)"/>
+      <rect class="cls-1" x="3.85" y="-.4" width="18.24" height="22.41" rx="9.12" ry="9.12" transform="translate(23.78 -2.17) rotate(90)"/>
+    </g>
+  </g>
+</svg>
